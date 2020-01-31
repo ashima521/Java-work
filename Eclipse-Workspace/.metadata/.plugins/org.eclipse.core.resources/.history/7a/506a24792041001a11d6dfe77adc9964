@@ -1,0 +1,17 @@
+package learning;
+
+public class catcount {
+public static void main(String[] args) {
+	int catcount = 0;
+	boolean notenoughcats = true;
+	
+	while (notenoughcats) {
+		System.out.println("Another cat");
+		catcount++;
+		 
+		if (catcount > 260)
+			notenoughcats = false;
+	}
+	System.out.println( " Too many cats what do i do");
+
+}}

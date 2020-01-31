@@ -1,0 +1,6 @@
+package com.qa.garage1;
+
+public class Motorbike extends Vehicle{
+	
+
+}

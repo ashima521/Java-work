@@ -1,0 +1,10 @@
+package learning;
+
+public class array {
+	public static void main(String[] args) {
+		String name = "James";
+		String [] row2 = {name, "ashima", "jess"};
+		System.out.println(row2[0]);
+		System.out.println(row2);
+
+}}

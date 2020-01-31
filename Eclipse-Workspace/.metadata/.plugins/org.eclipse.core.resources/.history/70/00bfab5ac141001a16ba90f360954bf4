@@ -1,0 +1,21 @@
+package learning;
+
+public class array {
+	public static void main(String[] args) {
+		String name = "James";
+		String [] row2 = {name, "ashima", "jess"};
+		row2[2]= "nisha";
+		System.out.println(row2[2]);
+ 		System.out.println(row2);   //provides memory location of the object
+
+        String [] row6 = {"doug", "josh", "sam", "jeevan"};
+        String [] row5 = {"Nisha", "laurence", "ashima"};
+        String [] row7 = {"mumba", "prem"};
+        
+        String [][] room = {row5, row6, row7};
+        System.out.println(room[1][1] + " " + room[0][2]);
+//        System.out.println(room[0][2]);
+        room[0][1] = "jess";
+        System.out.println(room[0][1]);
+	
+	}}

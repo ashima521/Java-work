@@ -1,0 +1,8 @@
+package com.qa.garage;
+
+public abstract class Vehicle {
+	public abstract void speed();
+	public abstract void brake();
+	
+
+}

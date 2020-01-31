@@ -1,0 +1,13 @@
+
+public class myfirstclass {
+    public static void main (String[] args){
+    System.out.println("Hello World");
+    
+    int a = 48;
+    int b = 19;
+    System.out.print(a+b);}}
+
+
+
+//Ctrl + F11 for run shortcut
+//auto-format code = ctrl + shift + F

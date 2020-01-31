@@ -1,0 +1,16 @@
+package com.qa.evolution;
+
+public class Snake extends Runner {
+	private short length;
+	public short getLength() {
+		return length;
+	}
+
+	public void setLength(short length) {
+		this.length = length;
+	}
+
+	public void bite() {
+		System.out.println("ouch!");
+	}
+}

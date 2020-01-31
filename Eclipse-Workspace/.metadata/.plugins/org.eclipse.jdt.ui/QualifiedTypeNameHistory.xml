@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="Elephant"/>
+<fullyQualifiedTypeName name="com.qa.circus.Elephant"/>
+<fullyQualifiedTypeName name="com.qa.evolution.RattleSnake"/>
+<fullyQualifiedTypeName name="com.qa.evolution.BlackMamba"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.qa.calculator.Calculator"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+</qualifiedTypeNameHistroy>

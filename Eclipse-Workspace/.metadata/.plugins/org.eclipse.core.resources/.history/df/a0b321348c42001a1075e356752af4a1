@@ -1,0 +1,9 @@
+package com.qa.Encapsulation;
+
+public class bank {
+
+public static void main(String[] args){
+	bankaccount chris = new bankaccount();
+	chris.addmoney(10);	
+		
+}}

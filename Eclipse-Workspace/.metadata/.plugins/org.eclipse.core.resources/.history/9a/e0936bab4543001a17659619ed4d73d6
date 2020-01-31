@@ -1,0 +1,8 @@
+package com.qa.garage1;
+
+public class Car extends Vehicle {
+
+	public void door() {
+		System.out.println("slow!");
+		
+	}}

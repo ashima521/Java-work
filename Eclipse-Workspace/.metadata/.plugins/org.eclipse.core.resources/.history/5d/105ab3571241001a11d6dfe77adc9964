@@ -1,0 +1,24 @@
+package learning;
+
+public class learning {
+	//public static void main (String[] args){
+		//isdivisible(4,2);
+	    //isdivisible(50,6);
+// }
+	//public static void isdivisible(int number, int divider){ 
+//		int num = 37;
+		//System.out.println(number % divider == 0);}
+	
+
+
+	
+	public static void main (String[] args){
+		int a = 10;
+	    int b =3;
+	    System.out.println("is" + a + "divisible by" + b + ":" + isdivisible(a,b))
+	    ;}
+	public static boolean isdivisible(int number, int divider){ 
+//		int num = 37;
+		return number % divider == 0;
+ }}
+

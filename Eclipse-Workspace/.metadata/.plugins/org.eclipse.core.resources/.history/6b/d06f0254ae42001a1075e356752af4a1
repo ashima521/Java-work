@@ -1,0 +1,13 @@
+package com.qa.garage;
+
+public class Car extends Vehicle {
+@Override //overrides abstract line
+public void move() {
+	System.out.println("brummm");
+	}
+
+public void bike() {
+	System.out.println("brummm");
+}
+}
+

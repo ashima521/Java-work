@@ -1,0 +1,14 @@
+package learning;
+
+public class Scope {
+   
+	static int number = 5;
+	public static void main (String[] args) {
+    // int number = 5;
+    System.out.println(number);
+    printy();
+    }
+    
+    public static void printy() {
+	System.out.println(number); //method scope can only access wihtin the curly bracket {}
+}}

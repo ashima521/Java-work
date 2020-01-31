@@ -1,0 +1,17 @@
+package com.qa.garage1;
+
+public class Car extends Vehicle {
+	@Override
+	public void speed() {
+	System.out.println("fast!");
+	
+	}
+
+	@Override
+	public void brake() {
+		System.out.println("slow!");
+		
+	}
+	
+
+}

@@ -1,0 +1,12 @@
+package learning;
+
+public class learning {
+	public static void isdivisiblebyfour(int num){ 
+//		int num = 37;
+		System.out.println(num % 4 == 0);
+		}
+	public static void main (String[] args){
+		isdivisiblebyfour(40);
+
+
+}}

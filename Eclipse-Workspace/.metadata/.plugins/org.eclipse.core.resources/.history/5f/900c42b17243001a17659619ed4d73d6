@@ -1,0 +1,20 @@
+package calculator;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+import com.qa.calculator.Calculator;
+
+public class CalculatorTest {
+	@Test
+	public void multiplyTestwithTwoTwos() {
+		Calculator calculator = new Calculator();
+		assertEquals(4, calculator.multiply(2, 2));
+	}
+	
+	@Test
+	public void multiplyTestwithTwoThree() {
+		Calculator calculator = new Calculator();
+		assertEquals(6, calculator.multiply(3, 2));}
+}
